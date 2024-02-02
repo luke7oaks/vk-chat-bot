@@ -46,8 +46,8 @@
     "io-ts": "^2.0.2",
     "io-ts-reporters": "^1.0.0",
     "fp-ts": "^2.3.1",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.2"
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   },
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
